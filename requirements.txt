@@ -1,0 +1,6 @@
+pygame
+pillow
+opencv-python
+moviepy<2
+pydub
+simpleaudio
